@@ -1,7 +1,7 @@
 {
-  "name": "blokode_url",
+  "name": "short_len",
   "version": "1.0.0",
-  "description": "",
+  "description": "![length.ml](https://i.imgur.com/Eb8GbcU.png)\r length.ml is a url shrinker made of node.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +15,13 @@
     "node-fetch": "^2.6.0",
     "quick.db": "^7.1.1",
     "tailwindcss": "^1.4.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tim232/length.ml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tim232/length.ml/issues"
+  },
+  "homepage": "https://github.com/Tim232/length.ml#readme"
 }
